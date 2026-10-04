@@ -8,7 +8,7 @@ Le logo, la bannière et les icônes proviennent de la [planche visuelle d’ori
 
 <p align="center">
   <img src="https://img.shields.io/badge/Manifest-V3-355e52?style=flat-square" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/Chrome%20%2F%20Chromium-extension-355e52?style=flat-square" alt="Chrome and Chromium extension">
+  <img src="https://img.shields.io/badge/Chrome%20%2F%20Firefox-extension-355e52?style=flat-square" alt="Chrome and Firefox extension">
   <img src="https://img.shields.io/badge/License-MIT-355e52?style=flat-square" alt="MIT license">
   <a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-24312d?style=flat-square" alt="Visit qbpg's portfolio"></a>
 </p>
@@ -38,6 +38,12 @@ Folio is an original, privacy minded Chrome/Chromium page toolkit. It helps with
 2. Ouvrez `chrome://extensions` dans Chrome ou Chromium et activez le **mode développeur**.
 3. Cliquez sur **Charger l’extension non empaquetée** et sélectionnez le dossier du projet.
 4. Ouvrez une page `http` ou `https`, puis cliquez sur l’icône Folio. Le bouton de langue dans la fenêtre de l’extension permet de choisir le français ou l’anglais.
+
+## Firefox / LibreWolf
+
+The Firefox 142+ package is built from the same interface and page tools, with a Firefox background script and native **Save as PDF** dialog. Run `python tools/build_firefox.py` to create `dist/folio-firefox-1.0.0.zip` for Mozilla Add-ons. Firefox requires a signed add-on for permanent installation; during development, load the ZIP temporarily through `about:debugging` → **This Firefox** → **Load Temporary Add-on**. LibreWolf can use Firefox-compatible add-ons. LibreOffice is a separate office suite and cannot install a browser extension.
+
+La version Firefox utilise les mêmes outils et ouvre la boîte de dialogue PDF native. Exécutez `python tools/build_firefox.py` pour créer l’archive destinée à Mozilla Add-ons. Pour un essai temporaire, ouvrez `about:debugging` → **Ce Firefox** → **Charger un module complémentaire temporaire**.
 
 ## Permissions
 
