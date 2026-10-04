@@ -1,3 +1,7 @@
+<!-- qbpg-logo:start -->
+<p align="right"><a href="https://qbpg.space/"><img src="../assets/qbpg-logo.svg" alt="qbpg" width="32" height="32"></a></p>
+<!-- qbpg-logo:end -->
+
 # Folio visual assets / Visuels Folio
 
 These PNGs are direct pixel crops of the [original brand sheet](../assets/folio-brand-sheet.png). The symbol and typography were not redrawn. / Ces PNG sont des découpes directes de la [planche d’origine](../assets/folio-brand-sheet.png). Le symbole et la typographie n’ont pas été redessinés.

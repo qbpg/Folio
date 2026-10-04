@@ -1,3 +1,7 @@
+<!-- qbpg-logo:start -->
+<p align="right"><a href="https://qbpg.space/"><img src="assets/qbpg-logo.svg" alt="qbpg" width="32" height="32"></a></p>
+<!-- qbpg-logo:end -->
+
 # Folio
 
 ![Bannière Folio](assets/folio-banner.png)
