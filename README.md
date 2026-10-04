@@ -1,5 +1,11 @@
 # Folio
 
+![Bannière Folio](assets/folio-banner.png)
+
+Folio est une extension locale pour Chrome et Chromium qui permet de modifier temporairement une page, d’inspecter ses couleurs et médias, et de faire des captures. L’interface est disponible en français et en anglais.
+
+Le logo, la bannière et les icônes proviennent de la [planche visuelle d’origine](assets/folio-brand-sheet.png), sans redessiner son symbole.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Manifest-V3-355e52?style=flat-square" alt="Manifest V3">
   <img src="https://img.shields.io/badge/Chrome%20%2F%20Chromium-extension-355e52?style=flat-square" alt="Chrome and Chromium extension">
@@ -25,6 +31,13 @@ Folio is an original, privacy minded Chrome/Chromium page toolkit. It helps with
 2. Open `chrome://extensions` in Chrome or Chromium and enable **Developer mode**.
 3. Select **Load unpacked** and choose the `folio` folder.
 4. Open a normal `http` or `https` page and click the Folio icon.
+
+## Installation en français
+
+1. Téléchargez ou clonez ce dépôt.
+2. Ouvrez `chrome://extensions` dans Chrome ou Chromium et activez le **mode développeur**.
+3. Cliquez sur **Charger l’extension non empaquetée** et sélectionnez le dossier du projet.
+4. Ouvrez une page `http` ou `https`, puis cliquez sur l’icône Folio. Le bouton de langue dans la fenêtre de l’extension permet de choisir le français ou l’anglais.
 
 ## Permissions
 

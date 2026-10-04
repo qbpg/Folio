@@ -1,0 +1,15 @@
+:root{color:#f3f4f6;background:#080b14}
+body{background:radial-gradient(ellipse at 100% 0%,#34136b 0%,transparent 46%),radial-gradient(ellipse at 0% 40%,#10216a 0%,transparent 42%),#080b14}
+header,section{border-color:#ffffff24}
+.mark{display:block;width:42px;height:42px;border-radius:12px;object-fit:cover;background:transparent}
+strong{font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+small{color:#b6bad0}
+#lang{border-color:#8b5cf6;background:#120c27;color:#f3f4f6}
+h2{color:#aeb9e9;letter-spacing:.15em}
+.grid button,.swatch{border-color:#49317b;background:#14142a;color:#f3f4f6}
+.grid button:hover{background:#251b4d;border-color:#8b5cf6}
+.grid button:focus-visible,#lang:focus-visible{outline-color:#8b5cf6}
+#result{color:#b8c8ff}
+#result.error{color:#ff9e9e}
+#result a{color:#9baaff}
+footer{color:#a3a9c2}

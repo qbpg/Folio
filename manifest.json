@@ -1,9 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Folio — Page tools",
+  "name": "__MSG_extName__",
   "short_name": "Folio",
   "version": "1.0.0",
-  "description": "Edit, capture and inspect pages locally.",
+  "description": "__MSG_extDescription__",
+  "default_locale": "en",
   "permissions": ["activeTab", "scripting", "storage", "downloads", "debugger"],
   "background": { "service_worker": "background.js" },
   "action": { "default_popup": "popup.html", "default_title": "Folio", "default_icon": {"16":"icons/icon16.png","48":"icons/icon48.png","128":"icons/icon128.png"}},
