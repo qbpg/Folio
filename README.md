@@ -6,6 +6,8 @@ Folio est une extension locale pour Chrome et Chromium qui permet de modifier te
 
 Le logo, la bannière et les icônes proviennent de la [planche visuelle d’origine](assets/folio-brand-sheet.png), sans redessiner son symbole.
 
+Les fichiers visuels séparés (logos clair et sombre, symbole, icône et bannières) se trouvent dans [branding](branding/README.md). / Separate visual assets are available in [branding](branding/README.md).
+
 <p align="center">
   <img src="https://img.shields.io/badge/Manifest-V3-355e52?style=flat-square" alt="Manifest V3">
   <img src="https://img.shields.io/badge/Chrome%20%2F%20Firefox-extension-355e52?style=flat-square" alt="Chrome and Firefox extension">
