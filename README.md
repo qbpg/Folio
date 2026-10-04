@@ -1,5 +1,12 @@
 # Folio
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Manifest-V3-355e52?style=flat-square" alt="Manifest V3">
+  <img src="https://img.shields.io/badge/Chrome%20%2F%20Chromium-extension-355e52?style=flat-square" alt="Chrome and Chromium extension">
+  <img src="https://img.shields.io/badge/License-MIT-355e52?style=flat-square" alt="MIT license">
+  <a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-24312d?style=flat-square" alt="Visit qbpg's portfolio"></a>
+</p>
+
 Folio is an original, privacy minded Chrome/Chromium page toolkit. It helps with quick copy mockups, inspection and capture without an account or remote service. Its design and source are independent of EditAll.
 
 ## Features
